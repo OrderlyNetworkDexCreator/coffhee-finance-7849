@@ -29,7 +29,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
-  "VITE_SEO_THEME_COLOR": "#1a231d",
+  "VITE_SEO_THEME_COLOR": "#16c04f",
   "VITE_SEO_KEYWORDS": "Encryption, exchange, decentralized, real world assets",
   "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
